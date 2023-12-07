@@ -1,0 +1,4 @@
+repository "Mine-A-Mole@Pons@cloud"
+  path "/"
+    br "/main"
+    co "/main"
